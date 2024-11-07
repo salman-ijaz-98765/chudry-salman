@@ -1,0 +1,7 @@
+Resources: null
+MyInstance: null
+Type: 'AWS::EC2::Instance'
+Properties: null
+AvailabilityZone: us-east-1a
+ImageId: ami-0866a3c8686eaeeba
+InstanceType: t2.micro
